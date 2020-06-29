@@ -1,0 +1,132 @@
+The English-History Office is a room. "This office is a cluttered and lively hub of work and talk. A door leads outside to a bright rooftop deck. A bookshelf containing a number of classics of western and nonwestern literature can be found here." In the English-History Office is a long table. The long table is not portable. The game of Bananagrams is on the long table. Instead of examining the game: say "The tiles are placed within a zipped banana-shaped cloth pouch." 
+
+Outside of The English-History Office is The Rooftop Deck. Down from The English-History Office is Upper Campus - 2nd Floor Hallway West. 
+The Rooftop Deck is a room. "[if we have taken the game]Chris Martin is here, eagerly gesturing to game you are carrying.[otherwise]Chris Martin is here, looking bored and withdrawn."
+
+Inside of The Rooftop Deck is The English-History Office. 
+Upper Campus - 2nd Floor Hallway West is a room. "The hallway runs east-west, and a set of stairs lead up to the English-History office. Doors lead northwest and northeast to the offices of each of your college counselors. Doors lead southwest and southeast to classrooms." 
+
+West of Upper Campus - 2nd Floor Hallway West is Upper Campus - 2nd Floor West Landing. East of Upper Campus - 2nd Floor Hallway West is Upper Campus - 2nd Floor Hallway East. Northwest of Upper Campus - 2nd Floor Hallway West is U-204. Northeast of Upper Campus - 2nd Floor Hallway West is U-206. Up from Upper Campus - 2nd Floor Hallway West is The English-History Office. Southeast of Upper Campus - 2nd Floor Hallway West is U-207. Southwest of Upper Campus - 2nd Floor Hallway West is U-205. 
+U-204 is a room. "Jenny's Schnieder's office."
+
+Outside of U-204 is Upper Campus - 2nd Floor Hallway West. Southeast of U-204 is Upper Campus - 2nd Floor Hallway West. 
+U-205 is a room. "Small classroom dominated by an oval Harkness table."
+
+Outside of U-205 is Upper Campus - 2nd Floor Hallway West. Northeast of U-205 is Upper Campus - 2nd Floor Hallway West. 
+U-206 is a room. "Kate Garrett's Office."
+
+Outside of U-206 is Upper Campus - 2nd Floor Hallway West. Southwest of U-206 is Upper Campus - 2nd Floor Hallway West. 
+U-207 is a room. "Classroom"
+
+Outside of U-207 is Upper Campus - 2nd Floor Hallway West. Northwest of U-207 is Upper Campus - 2nd Floor Hallway West. 
+Upper Campus - 2nd Floor Hallway East is a room. "The hallway continues east-west. Doors lead northwest, north, and northeast to various offices. Doors lead southwest to a classroom and south to a mini-conference room." 
+
+North of Upper Campus - 2nd Floor Hallway East is U-210. South of Upper Campus - 2nd Floor Hallway East is U-211. West of Upper Campus - 2nd Floor Hallway East is Upper Campus - 2nd Floor Hallway West. East of Upper Campus - 2nd Floor Hallway East is Upper Campus - 2nd Floor East Landing. Northwest of Upper Campus - 2nd Floor Hallway East is U-208. Northeast of Upper Campus - 2nd Floor Hallway East is U-212. Southwest of Upper Campus - 2nd Floor Hallway East is U-209. 
+Upper Campus - 2nd Floor West Landing is a room. "One of the 'pinch-points' of our campus is this spot. An elevator here, adjacent to a small drinking fountain, can ferry you down to the first floor. Stairs lead down to the first floor. You can enter a women's bathroom to the northwest or a single-occupancy bathroom to the southwest. A small hallway to the south leads to more adult offices." 
+
+South of Upper Campus - 2nd Floor West Landing is U-203. East of Upper Campus - 2nd Floor West Landing is Upper Campus - 2nd Floor Hallway West. Inside of Upper Campus - 2nd Floor West Landing is Upper Campus Elevator. Northwest of Upper Campus - 2nd Floor West Landing is Upper Campus - 2nd Floor Women's Bathroom. Down from Upper Campus - 2nd Floor West Landing is Upper Campus - 1st Floor West Landing. Southwest of Upper Campus - 2nd Floor West Landing is Upper Campus - 2nd Floor Single-occupancy Bathroom. 
+Upper Campus - 2nd Floor East Landing is a room. "This corner turns the hallway to the west into a hallway running south. Stairs lead down from here to the 1st floor."
+
+South of Upper Campus - 2nd Floor East Landing is Upper Campus - 2nd Floor Southeastern Hallway. West of Upper Campus - 2nd Floor East Landing is Upper Campus - 2nd Floor Hallway East. Down from Upper Campus - 2nd Floor East Landing is Upper Campus - Midlevel East Landing. 
+Upper Campus - 2nd Floor Southeastern Hallway is a room. "This hallway extends from a landing to the north and gives access to classrooms to the west, southwest, and south. A whiteboard on the eastern wall, and the pens in the trays underneath, elicit a creative impulse."
+
+North of Upper Campus - 2nd Floor Southeastern Hallway is Upper Campus - 2nd Floor East Landing. South of Upper Campus - 2nd Floor Southeastern Hallway is U-216. West of Upper Campus - 2nd Floor Southeastern Hallway is U-214. Southwest of Upper Campus - 2nd Floor Southeastern Hallway is U-215. 
+U-208 is a room. "Tilda's office."
+
+Outside of U-208 is Upper Campus - 2nd Floor Hallway East. Southeast of U-208 is Upper Campus - 2nd Floor Hallway East. 
+U-210 is a room. "Shoba's office."
+
+South of U-210 is Upper Campus - 2nd Floor Hallway East. Outside of U-210 is Upper Campus - 2nd Floor Hallway East. 
+U-212 is a room. "Community engagement office."
+
+Outside of U-212 is Upper Campus - 2nd Floor Hallway East. Southwest of U-212 is Upper Campus - 2nd Floor Hallway East. 
+U-209 is a room. "Spacious classroom."
+
+Outside of U-209 is Upper Campus - 2nd Floor Hallway East. Northeast of U-209 is Upper Campus - 2nd Floor Hallway East. 
+U-211 is a room. "This tiny conference room is adorned with college flags."
+
+North of U-211 is Upper Campus - 2nd Floor Hallway East. Outside of U-211 is Upper Campus - 2nd Floor Hallway East. 
+Upper Campus - 2nd Floor Women's Bathroom is a room. "Your humble author has never entered this room."
+
+Outside of Upper Campus - 2nd Floor Women's Bathroom is Upper Campus - 2nd Floor West Landing. Southeast of Upper Campus - 2nd Floor Women's Bathroom is Upper Campus - 2nd Floor West Landing. 
+Upper Campus - 2nd Floor Single-occupancy Bathroom is a room. "Not much to say."
+
+Outside of Upper Campus - 2nd Floor Single-occupancy Bathroom is Upper Campus - 2nd Floor West Landing. Northeast of Upper Campus - 2nd Floor Single-occupancy Bathroom is Upper Campus - 2nd Floor West Landing. 
+U-203 is a room. "This warm office is where frazzled Seniors go to turn in their essays and other application work to Elizabeth Faris. You see some offices you could potentially access from here, but you sense they are not somewhere students need to be going."
+
+North of U-203 is Upper Campus - 2nd Floor West Landing. Outside of U-203 is Upper Campus - 2nd Floor East Landing. 
+Upper Campus Elevator is a room. "The interior feels like a service elevator more than one for students to use." 
+
+
+U-214 is a room. "This classroom is often used for history classes; desks are arranged around the edge of the room with a fairly ample space in the middle."
+
+East of U-214 is Upper Campus - 2nd Floor Southeastern Hallway. Outside of U-214 is Upper Campus - 2nd Floor Southeastern Hallway. 
+U-215 is a room. "This classroom is often used for history classes; desks are arranged around the edge of the room with a fairly ample space in the middle."
+
+Outside of U-215 is Upper Campus - 2nd Floor Southeastern Hallway. Northeast of U-215 is Upper Campus - 2nd Floor Southeastern Hallway. 
+U-216 is a room. "This is among the most spacious rooms in the building, with enough room for a U-shaped arrangement of desks that you could conceivably walk behind or in front of. Large windows face south and west, and a fire escape leads down to the first level." 
+
+North of U-216 is Upper Campus - 2nd Floor Southeastern Hallway. Outside of U-216 is Upper Campus - 2nd Floor Southeastern Hallway. 
+Upper Campus - 1st Floor West Landing is a room. "You find yourself at a busy intersection - stairs lead up to the second floor, an elevator lies to the north, the Assistant to the Head of School is to the northeast, and a men's bathroom can be found to the southeast. A hallway runs south, and exit to the northwest leads outside to Jackson Street." 
+
+North of Upper Campus - 1st Floor West Landing is Upper Campus Elevator. South of Upper Campus - 1st Floor West Landing is Upper Campus - 1st Floor West Hallway. East of Upper Campus - 1st Floor West Landing is Jackson Street Gallery. Inside of Upper Campus - 1st Floor West Landing is Upper Campus Elevator. Outside of Upper Campus - 1st Floor West Landing is Outside - Jackson Street. Northwest of Upper Campus - 1st Floor West Landing is Outside - Jackson Street. Northeast of Upper Campus - 1st Floor West Landing is Office of the Assistant to the Head of School. Up from Upper Campus - 1st Floor West Landing is Upper Campus - 2nd Floor West Landing. Southeast of Upper Campus - 1st Floor West Landing is Upper Campus - 1st Floor Men's Bathroom. 
+Upper Campus - Midlevel East Landing is a room. "On a pinboard you can see health advice from Peer Advisors and the Human Development Department. A door to the west leads to a women's bathroom; a closed door to the southwest leads to the School Counselor's office. The sounds of a white noise machine fill the space."
+
+South of Upper Campus - Midlevel East Landing is Upper Campus - 1st Floor East Landing. West of Upper Campus - Midlevel East Landing is Upper Campus - Midlevel Women's Bathroom. Inside of Upper Campus - Midlevel East Landing is Upper Campus - Midlevel Women's Bathroom. Up from Upper Campus - Midlevel East Landing is Upper Campus - 2nd Floor East Landing. Down from Upper Campus - Midlevel East Landing is Upper Campus - 1st Floor East Landing. Southwest of Upper Campus - Midlevel East Landing is U-109 - School Counselor's Office. 
+Upper Campus - 1st Floor East Landing is a room. "Another busy intersection for the school - stairs lead up to a landing outside the School Counselor's office. Stairs also lead south into a hallway, though you hear that hallway might be gone soon. Fragile-looking doors with panes of glass lead west into the Jackson Street Lounge."
+
+North of Upper Campus - 1st Floor East Landing is Upper Campus - Midlevel East Landing. South of Upper Campus - 1st Floor East Landing is Upper Campus - 1st Floor East Hallway. West of Upper Campus - 1st Floor East Landing is Jackson Street Lounge. Up from Upper Campus - 1st Floor East Landing is Upper Campus - Midlevel East Landing. 
+Upper Campus - Midlevel Women's Bathroom is a room. "Your humble author has never entered this room."
+
+East of Upper Campus - Midlevel Women's Bathroom is Upper Campus - Midlevel East Landing. Outside of Upper Campus - Midlevel Women's Bathroom is Upper Campus - Midlevel East Landing. 
+U-109 - School Counselor's Office is a room. "The School Counselor's office has a nice couch and comfy chairs. The sound of white noise from outside comforts you that you won't be heard discussing anything in here."
+
+Outside of U-109 - School Counselor's Office is Upper Campus - Midlevel East Landing. Northeast of U-109 - School Counselor's Office is Upper Campus - Midlevel East Landing. 
+Jackson Street Lounge is a room. "This is a showcase room for the school: an outsized circular wooden table dominates the center - it must be at least three yards in diameter. Display books line bookshelves in every direction - volumes of encyclopedias and law books. An unused fireplace speaks to a much different live this room must have had long ago."
+
+North of Jackson Street Lounge is Upper Campus - Admissions Foyer. West of Jackson Street Lounge is Jackson Street Lobby. Outside of Jackson Street Lounge is Jackson Street Lobby. 
+Upper Campus - 1st Floor East Hallway is a room. "This hallway allows entry to two large, sunny classrooms mostly used for English classes. The door to one of them is to the northwest, another due west. An exit to the southwest takes you outside to the upper courtyard, one of the prettiest places on campus. Thinkly-used lockers cover the eastern wall." 
+
+North of Upper Campus - 1st Floor East Hallway is Upper Campus - 1st Floor East Landing. West of Upper Campus - 1st Floor East Hallway is U-112. Outside of Upper Campus - 1st Floor East Hallway is Upper Courtyard. Northwest of Upper Campus - 1st Floor East Hallway is U-111. Southwest of Upper Campus - 1st Floor East Hallway is Upper Courtyard. 
+Upper Campus - Admissions Foyer is a room. "A bright and cheerly foyer right off the main entrance, inhabited by the Admissions staff who typically keep a bowl of candy. The office of the Director of Admissions is up a short flight of stairs to the east."
+
+South of Upper Campus - Admissions Foyer is Jackson Street Lounge. West of Upper Campus - Admissions Foyer is Jackson Street Lobby. East of Upper Campus - Admissions Foyer is Upper Campus - Office of the Admissions Director. Up from Upper Campus - Admissions Foyer is Upper Campus - Office of the Admissions Director. 
+Upper Campus - Office of the Admissions Director is a room. "An oddly elevated room, a place where students are often interviewed for admission to UHS."
+
+West of Upper Campus - Office of the Admissions Director is Upper Campus - Admissions Foyer. Down from Upper Campus - Office of the Admissions Director is Upper Campus - Admissions Foyer. 
+Jackson Street Lobby is a room. "This is the ceremonial entrance to the school. A receptionist's office lies to the northwest, and you can exit the building to Jackson Street to the north. To the northeast is the admissions foyer, and to the east the Jackson Street Lounge. To the south, double doors lead to the Upper Courtyard. A hallway with art on the walls leads west."
+
+North of Jackson Street Lobby is Outside - Jackson Street. South of Jackson Street Lobby is Upper Courtyard. West of Jackson Street Lobby is Jackson Street Gallery. East of Jackson Street Lobby is Jackson Street Lounge. Outside of Jackson Street Lobby is Outside - Jackson Street. Northwest of Jackson Street Lobby is Reception Office. Northeast of Jackson Street Lobby is Upper Campus - Admissions Foyer. 
+U-111 is a room. "A large, sunny classroom largely used for English classes. You can look out windows to the west onto the upper courtyard."
+
+East of U-111 is Upper Campus - 1st Floor East Hallway. Outside of U-111 is Upper Campus - 1st Floor East Hallway. Southeast of U-111 is Upper Campus - 1st Floor East Hallway. 
+U-112 is a room. "A large, sunny classroom largely used for English classes. You can look out windows to the west onto the upper courtyard."
+
+East of U-112 is Upper Campus - 1st Floor East Hallway. Outside of U-112 is Upper Campus - 1st Floor East Hallway. 
+Upper Courtyard is a room. "This beautiful, spacious courtyard feels as if it is being 'hugged' by the eastern and western wings of the school. Looking to the north you can see the entrance to the school, and above that a small porthole-style window into the English-History office. Planters filled with flowers can be seen in every direction, as well as a few scultpures. Several tables and benches are used by students at all times of the day to socialize and relax. Entrances to the western and eastern hallways are visible to the west and east, respectively. To the South you see a bridge leading to Middle campus and the library. To the southeast, a set of stairs jog downward to the lower courtyard and student center."
+
+North of Upper Courtyard is Jackson Street Lobby. South of Upper Courtyard is Skybridge. West of Upper Courtyard is Upper Campus - 1st Floor West Hallway. East of Upper Courtyard is Upper Campus - 1st Floor East Hallway. Inside of Upper Courtyard is Jackson Street Lobby. Down from Upper Courtyard is Lower Courtyard. 
+Head of School's Office is a room. "You might think that the Head of School's office should be scary, or far from the hustle & bustle, but this room couldn't be more centrally located or more brightly lit."
+
+North of Head of School's Office is Jackson Street Gallery. 
+Jackson Street Gallery is a room. "This hallway runs west-east and is also host to art installations as the Jackson Street Gallery. The door to the office of the Head of School is open to your south." 
+
+South of Jackson Street Gallery is Head of School's Office. 
+Reception Office is a room. "Students aren't really allowed in here - it's where our receptionists to the work of greeting people new to the campus but also handling mail and keeping the whole school running."
+
+South of Reception Office is Jackson Street Gallery. Outside of Reception Office is Jackson Street Gallery. Southeast of Reception Office is Jackson Street Lobby. 
+Office of the Assistant to the Head of School is a room. "Students don't find their way into this room much, but it's where a lot of the work of the Head of School and Deans gets scheduled and implemented."
+
+Outside of Office of the Assistant to the Head of School is Upper Campus - 1st Floor West Landing. Southwest of Office of the Assistant to the Head of School is Upper Campus - 1st Floor West Landing. 
+Upper Campus - 1st Floor Men's Bathroom is a room. "A large bathroom with a single stall, two urinals, and two sinks."
+
+North of Upper Campus - 1st Floor Men's Bathroom is Jackson Street Gallery. Outside of Upper Campus - 1st Floor Men's Bathroom is Jackson Street Gallery. 
+Upper Campus - 1st Floor West Hallway is a room. "A ramp slopes downward from the north, classrooms can be entered to the northeast and east, and an exit to the upper courtyard can be found to the southeast. The Jackson Street Gallery continues here with rotating art installations."
+
+North of Upper Campus - 1st Floor West Hallway is Upper Campus - 1st Floor West Landing. East of Upper Campus - 1st Floor West Hallway is U-101. Northeast of Upper Campus - 1st Floor West Hallway is U-102. Southeast of Upper Campus - 1st Floor West Hallway is Upper Courtyard. 
+U-102 is a room. "A functional humanities classroom."
+
+Outside of U-102 is Upper Campus - 1st Floor West Hallway. Southwest of U-102 is Upper Campus - 1st Floor West Hallway. 
+U-101 is a room. "A functional humanities classroom."
+
+West of U-101 is Upper Campus - 1st Floor West Hallway. Outside of U-101 is Upper Campus - 1st Floor West Hallway. 
